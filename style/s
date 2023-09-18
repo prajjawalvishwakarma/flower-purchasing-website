@@ -1,0 +1,31 @@
+@charset "utf-8";
+*box-sizing{
+
+box-sizing:border-sizing;
+}
+
+
+body{
+    background-color:#c0c0c0;
+    padding:0;
+    margin:0;
+    
+}
+
+page{
+    width:900px
+    height:890px;
+    margin:0 auto;
+}
+header{
+    width:900px;
+    height:181px;
+    float:left;
+    background-image:url(../images/header.jpg);
+}
+#logo-pic{
+    width:190px;
+    height:66px;
+    float:left;
+    background-image: url(../images/logo.gif);
+}
